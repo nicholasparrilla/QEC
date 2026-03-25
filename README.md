@@ -69,9 +69,6 @@ This project develops quantum error correction in stages:
 
 ---
 
-##
-
----
 
 ## How to Run
 
